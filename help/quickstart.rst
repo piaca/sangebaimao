@@ -13,7 +13,7 @@
 
 邀请码获取方法有：
 
-1. 通过乌云集市进行购买 `购买邀请码 <http://www.wooyun.org/market/>`_
+1. 通过乌云集市进行购买 `购买邀请码 <http://www.wooyun.org/market/336>`_
 
 
 注册帐号
