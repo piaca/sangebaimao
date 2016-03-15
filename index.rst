@@ -17,5 +17,6 @@
 
    help/quickstart
    help/detail
+   help/challenge
    help/qa
 
