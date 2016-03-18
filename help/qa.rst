@@ -23,7 +23,7 @@ Q & A
 由于 Ctrl+C 在终端中是中断的意思，所以在终端中无法直接通过 Ctrl+C 和 Ctrl+V 实现复制粘贴功能。请通过如下方法实现复制粘贴功能：
 
 1. MAC/Linux 系统环境下，使用右键菜单中的复制粘贴功能；
-2. Windows 系统环境下，Chrome 浏览器请使用 Ctrl+A - Ctrl+C 进行复制，Ctrl+A - Ctrl+V 进行复制；
+2. Windows 系统环境下，Chrome 浏览器请使用 Ctrl+A - Ctrl+C 进行复制，Ctrl+A - Ctrl+V 进行粘贴；
 
 
 什么是猫币？
